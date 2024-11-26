@@ -1,7 +1,0 @@
-{
-    "SUBSCRIPTION_ID" : "a63164e3-a08e-49b7-970a-65bf8c2b4a41",
-    "RESOURCE_GROUP_NAME" : "rgitainplace2",
-    "LOCATION" : "westeurope" ,
-    "STORAGE_ACCOUNT_NAME" : "sanitainplace2",
-    "ACCOUNT_URL": "https://sanitainplace2.blob.core.windows.net/"
-}
