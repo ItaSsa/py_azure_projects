@@ -10,4 +10,4 @@
 
 ## 3. Upload file in one Blob Storage, connecting via Access Key
 [Notebook](https://github.com/ItaSsa/py_projects/blob/listcontainersAzure/Azure/proj_uploadFileAzureBlobStorage.ipynb)
-Medium
+[Medium](https://medium.com/@itairaest/my-experience-uploading-a-file-in-one-azure-blob-storage-35e9360860d3)
